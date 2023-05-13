@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm K Mahesh</h1>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODI1MzA1ODEzMTYzOGNlZTQ5NDFjMDA0NGFjZTAzZTI4NTAxYWNlYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh027&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh027" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mahe_sh_99" target="blank"><img src="https://img.shields.io/twitter/follow/mahe_sh_99?logo=twitter&style=for-the-badge" alt="mahe_sh_99" /></a> </p>
