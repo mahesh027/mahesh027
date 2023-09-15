@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Brain stroke prediction using ML**
 
-- 🌱 I’m currently learning **Python,Data Science**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **C**
 
 - 📫 How to reach me **mahesh0352002@gmail.com**
 
